@@ -1,4 +1,4 @@
-# Workout Tracker :muscle:
+# Budget Tracker :moneybag:
 
 ![Languages](https://img.shields.io/github/languages/count/theycallmemattyd/budget-tracker)
 ![Code Size](https://img.shields.io/github/languages/code-size/theycallmemattyd/budget-tracker)
