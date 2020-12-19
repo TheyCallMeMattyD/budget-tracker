@@ -10,7 +10,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/budget-tracker?style=for-the-badge)  
   
 ## Description
->This is a simple budget tracker, but it's really about utilizing online/offline functionality - using cache's and service workers to update budget data to the server once online access has been reestablished.   
+>This is a simple budget tracker, but it's really about utilizing online/offline functionality - using caches and service workers to update budget data to the server once online access has been reestablished.   
 
 >![Screen Shot 2020-12-19 at 11 05 47 AM](https://user-images.githubusercontent.com/66084799/102693853-8b974a00-41eb-11eb-9d36-2705bee5207e.png). 
 
