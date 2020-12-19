@@ -26,11 +26,12 @@
 >9. [Questions?](#Questions?)
   
 ## Installation
->Please install required dependencies using the following code: `npm install express`, and `npm install mongoose`.  
+>Please install required dependencies using the following code: `npm install express`, `npm install mongoose`, `npm install morgan`, and `npm install compression`. You will also need to run `npm install bootstrap`.  Please see additional documentation on MongoDB to install your own cluster and database.
   
 ## Usage
->Once you have installed the required dependencies, run the app using the following code in your terminal: `npm run start`.  
->OR... if you'd just like to use the app on the Heroku website host, you can access it here:  
+>Once you have installed the required dependencies, run the app using the following code in your terminal: `npm run start` to view it in your local browser at localhost:3000.  
+>  
+>OR... if you'd just like to see the app on the Heroku website host, you can access it here:  
 >hhttps://mattybudget.herokuapp.com/. 
 
 ## Technologies
@@ -49,7 +50,6 @@
 
 ## Tests
 >Not applicable for this application. If it deployed to the Heroku hosting website, then it works!
-
   
 ## Questions  
 >Please direct all questions to:  
