@@ -10,9 +10,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/budget-tracker?style=for-the-badge)  
   
 ## Description
->This is a simple budget tracker, but it's really about utilizing online/offline functionality - using cache's and service workers to update budget data to the server once online access has been reestablished.  Application is deployed on Heroku at the following website address:  
+>This is a simple budget tracker, but it's really about utilizing online/offline functionality - using cache's and service workers to update budget data to the server once online access has been reestablished.   
 
->![dashboard](https://user-images.githubusercontent.com/66084799/102262069-9480d680-3ee0-11eb-84ea-0d3887e478fa.jpg)
+>![Screen Shot 2020-12-19 at 11 05 47 AM](https://user-images.githubusercontent.com/66084799/102693853-8b974a00-41eb-11eb-9d36-2705bee5207e.png). 
 
 ## Table of Contents
 >1. [Title](#Title)
@@ -31,7 +31,7 @@
 ## Usage
 >Once you have installed the required dependencies, run the app using the following code in your terminal: `npm run start`.  
 >OR... if you'd just like to use the app on the Heroku website host, you can access it here:  
->https://workoutmatty.herokuapp.com/   
+>hhttps://mattybudget.herokuapp.com/. 
 
 ## Technologies
 >This application was created with:  
