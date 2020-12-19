@@ -10,7 +10,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/budget-tracker?style=for-the-badge)  
   
 ## Description
->A workout tracker that enables the user to view, create and track daily workouts. User is also able to track the name, type, weight, sets, reps, and duration of exercises - as well as track distance traveled while doing cardio.  Application is deployed on Heroku at the following website address:  
+>This is a simple budget tracker, but it's really about utilizing online/offline functionality - using cache's and service workers to update budget data to the server once online access has been reestablished.  Application is deployed on Heroku at the following website address:  
 
 >![dashboard](https://user-images.githubusercontent.com/66084799/102262069-9480d680-3ee0-11eb-84ea-0d3887e478fa.jpg)
 
