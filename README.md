@@ -32,7 +32,7 @@
 >Once you have installed the required dependencies, run the app using the following code in your terminal: `npm run start` to view it in your local browser at localhost:3000.  
 >  
 >OR... if you'd just like to see the app on the Heroku website host, you can access it here:  
->hhttps://mattybudget.herokuapp.com/. 
+>https://mattybudget.herokuapp.com/. 
 
 ## Technologies
 >This application was created with:  
